@@ -1,7 +1,7 @@
 name: 'Beta Site: MostlyATourist'
 favicon: null
-layout_spectrum: 0.9887400851584971
-typography_spectrum: 0.4528431149665266
+layout_spectrum: 1
+typography_spectrum: 0.49498
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.9311656535137445
-  lightness: 0.25
-  saturation: 0.1875
-  rhythmicContrast: 0.568353351438418
+  brandStrength: 0.1875
+  lightness: 0.8125
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
