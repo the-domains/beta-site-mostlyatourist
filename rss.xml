@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Beta Site: MostlyATourist]]></title>
         <description><![CDATA[Beta Site: MostlyATourist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/beta-site-mostlyatourist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 21:27:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Aug 2016 16:49:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beta-site-mostlyatourist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Theodore Roosevelt National Park]]></title>
+            <description><![CDATA[<article><h1>Theodore Roosevelt National Park</h1><p>Adventures, by their very definition, are unpredictable. At least, that’s how they are in my head. Any often, despite my very best intentions, something that should have been very simple turns into an adventure on the way.</p></article>]]></description>
+            <link>https://thegrid.ai/beta-site-mostlyatourist/theodore-roosevelt-national-park/index.html</link>
+            <guid isPermaLink="false">f8c6c457-6416-44e3-bcc0-0308fe648a9e</guid>
+            <pubDate>Fri, 26 Aug 2016 16:49:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2016 started with a Bang]]></title>
-            <description><![CDATA[<article><h1>2016 started with a Bang</h1><p>A theoretical bang, but a bang just the same.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d043bdb428a6317b7e1988d70e5be0dc835034d5.jpg"></article>]]></description>
-            <link>undefined2016-started-with-a-bang/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0df7c48f-bd2e-4b5e-a7e3-7dd0f3bf979f.jpg">]]></description>
+            <link>https://thegrid.ai/beta-site-mostlyatourist/2016-started-with-a-bang/index.html</link>
             <guid isPermaLink="false">aecf4ae4-634c-428d-8bdb-82a512581b25</guid>
             <pubDate>Fri, 12 Feb 2016 21:27:17 GMT</pubDate>
         </item>
