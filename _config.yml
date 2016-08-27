@@ -1,4 +1,3 @@
-layout_spectrum: 0.8198287195991725
 typography_spectrum: 0.5649978616274893
 color:
   brandColors:
@@ -11,18 +10,23 @@ color:
   lightness: 0.9695022909436375
   saturation: 0.1327410195954144
   rhythmicContrast: 0.5005251886323094
-name: 'Beta Site: MostlyATourist'
-favicon: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8198287195991725
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: 'Beta Site: MostlyATourist'
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Theodore Roosevelt National Park
+    id: f8c6c457-6416-44e3-bcc0-0308fe648a9e
+    type: content
+favicon: null
 purpose: []
