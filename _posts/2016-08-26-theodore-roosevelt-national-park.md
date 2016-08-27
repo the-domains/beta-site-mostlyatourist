@@ -1,18 +1,20 @@
 ---
-datePublished: '2016-08-26T16:18:43.197Z'
+datePublished: '2016-08-26T16:36:10.085Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-26T16:17:49.914Z'
+dateModified: '2016-08-26T16:36:09.610Z'
 title: Theodore Roosevelt National Park
 publisher: {}
 description: >-
   Adventures, by their very definition, are unpredictable. At least, that’s how
   they are in my head. Any often, despite my very best intentions, something
   that should have been very simple turns into an adventure on the way.
-starred: false
 sourcePath: _posts/2016-08-26-theodore-roosevelt-national-park.md
-_type: Blurb
+hasPage: true
+starred: false
+url: theodore-roosevelt-national-park/index.html
+_type: Article
 
 ---
 # Theodore Roosevelt National Park
