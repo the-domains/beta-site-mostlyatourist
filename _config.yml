@@ -1,4 +1,3 @@
-layout_spectrum: 0.8860209446866065
 typography_spectrum: 0.1221339306794107
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8860209446866065
 analytics:
   google: null
   facebook: null
@@ -29,6 +29,6 @@ navigation:
     id: f8c6c457-6416-44e3-bcc0-0308fe648a9e
     type: content
 favicon: null
-title: Mostly a Tourist
+title: ''
 description: 'tour·ist: a person who travels for pleasure'
 purpose: []
