@@ -1,7 +1,18 @@
+layout_spectrum: 0.16263010702095926
+typography_spectrum: 0.3461648563388735
+color:
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+  brandStrength: 0.3255758148152381
+  lightness: 0.9695022909436375
+  saturation: 0.1327410195954144
+  rhythmicContrast: 0.5005251886323094
 name: 'Beta Site: MostlyATourist'
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.49498
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.1875
-  lightness: 0.8125
-  saturation: 0.625
-  rhythmicContrast: 0.75
 purpose: []
