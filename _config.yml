@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Theodore Roosevelt National Park
+    id: 2560772c-da60-471d-af2c-7b694ae6e086
+    type: content
 favicon: null
 title: Mostly a Tourist
 description: ...traveling the world for pleasure
