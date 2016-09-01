@@ -1,5 +1,25 @@
-layout_spectrum: 0.16235192911699414
+name: 'Beta Site: MostlyATourist'
+favicon: null
+layout_spectrum: 0.87057
 typography_spectrum: 0.20528714288957417
+navigation:
+  - name: Theodore Roosevelt National Park
+    id: f8c6c457-6416-44e3-bcc0-0308fe648a9e
+    type: content
+title: Mostly a Tourist
+description: ...traveling the world for pleasure
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#F2385A'
@@ -11,24 +31,4 @@ color:
   lightness: 0.4254801522474736
   saturation: 0.4084384059533477
   rhythmicContrast: 0.14614768791943789
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: 'Beta Site: MostlyATourist'
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: Theodore Roosevelt National Park
-    id: f8c6c457-6416-44e3-bcc0-0308fe648a9e
-    type: content
-favicon: null
-title: Mostly a Tourist
-description: ...traveling the world for pleasure
 purpose: []
