@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-30T02:36:25.645Z'
+datePublished: '2016-08-30T02:47:52.092Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T02:36:09.946Z'
+dateModified: '2016-08-30T02:47:51.592Z'
 title: Theodore Roosevelt National Park
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-30-theodore-roosevelt-national-park.md
+starred: false
 url: theodore-roosevelt-national-park/index.html
 _type: Blurb
 
