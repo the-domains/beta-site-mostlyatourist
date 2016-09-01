@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T19:23:21.451Z'
+datePublished: '2016-08-30T01:32:38.995Z'
 sourcePath: _posts/2016-08-26-theodore-roosevelt-national-park.md
 inFeed: true
 authors: []
@@ -10,8 +10,8 @@ author:
     url: 'https://www.instagram.com/drake.anna'
     avatar: {}
 via: {}
-dateModified: '2016-08-27T19:21:10.046Z'
-title: Theodore Roosevelt National Park
+dateModified: '2016-08-30T01:32:38.470Z'
+title: ROAD TRIP! September 2015
 publisher: {}
 description: >-
   Adventures, by their very definition, are unpredictable. At least, that’s how
@@ -23,7 +23,7 @@ url: theodore-roosevelt-national-park/index.html
 _type: Article
 
 ---
-# Theodore Roosevelt National Park
+# ROAD TRIP! September 2015
 
 Adventures, by their very definition, are unpredictable. At least, that's how they are in my head. And often, despite my very best intentions, something that should have been very simple turns into an adventure on the way.
 
@@ -47,6 +47,6 @@ Instead of arriving in Williston at 11pm, picking up groceries at the 24hr Walma
 Call that the straw that broke the camel's back.
 
 We booked a room at the Holiday Inn next door, took the bare necessities out of the vehicle and crawled into nice, warm beds. The next morning, we woke up, had a lovely breakfast, did our grocery shopping, and proceeded on our way to the park.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/015398f0d7d7c90235324d94e680cebe0a4c5796.jpg)
+![Soo... The border we planned to cross closed two minutes before we got there, and the WalMart stopped being 24hrs two weeks ago... We stayed at the Holiday Inn. It was a good decision. Now we'll finish our breakfast, pick up food and then head down to the campground.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/015398f0d7d7c90235324d94e680cebe0a4c5796.jpg)
 
 A few trips around the campsite, and we found the perfect site for us - off the beaten path just a little bit with lots of room for our tents. We set up camp and then went touring, hopeful that we would meet a few buffalo. The park, after all, promised buffalo herds, wild horses and rattle snakes. I was okay with the first, and just a tiny bit terrified of the last.
