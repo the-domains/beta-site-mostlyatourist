@@ -1,7 +1,18 @@
+layout_spectrum: 0.8238686411641538
+typography_spectrum: 0.4711709236726165
+color:
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+  brandStrength: 0.27196199097670615
+  lightness: 0.4254801522474736
+  saturation: 0.4084384059533477
+  rhythmicContrast: 0.14614768791943789
 name: 'Beta Site: MostlyATourist'
 favicon: null
-layout_spectrum: 0.87057
-typography_spectrum: 0.20528714288957417
 navigation:
   - name: Theodore Roosevelt National Park
     id: f8c6c457-6416-44e3-bcc0-0308fe648a9e
@@ -20,15 +31,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#F2385A'
-    - '#F5A503'
-    - '#E9F1DF'
-    - '#4AD9D9'
-    - '#36B1BF'
-  brandStrength: 0.27196199097670615
-  lightness: 0.4254801522474736
-  saturation: 0.4084384059533477
-  rhythmicContrast: 0.14614768791943789
 purpose: []
